@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Ben</h1>
-<h3 align="center">I am a passionate Front- as well as Backend programmer ;)</h3> <br>
+<h3 align="center">I am a passionate Front- as well as Backend programmer ;)</h3> 
 
 - 🌱 I’m currently learning **some more js**
 
