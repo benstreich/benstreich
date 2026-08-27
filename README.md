@@ -22,7 +22,10 @@ AI-assisted workflow, built around Claude Code.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0a0a0a,100:5c0b12&text=Side%20project&fontColor=f4ede4&fontSize=16&fontAlignY=55&fontAlign=8" alt="Side project" />
 
 <p align="center">
-<a href="https://github.com/benstreich/etude"><img src="https://raw.githubusercontent.com/benstreich/benstreich/main/assets/etude-title-dark.png#gh-dark-mode-only" height="56" alt="Etude" /><img src="https://raw.githubusercontent.com/benstreich/benstreich/main/assets/etude-title.png#gh-light-mode-only" height="56" alt="Etude" /></a>
+<a href="https://github.com/benstreich/etude"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benstreich/benstreich/main/assets/etude-title-dark.png" />
+<img src="https://raw.githubusercontent.com/benstreich/benstreich/main/assets/etude-title.png" height="56" alt="Etude" />
+</picture></a>
 </p>
 
 <p align="center">
