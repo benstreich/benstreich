@@ -23,12 +23,9 @@ AI-assisted workflow, built around Claude Code.
 
 <table width="100%">
 <tr>
-<td width="180" align="center" valign="middle">
-<br/>
-<a href="https://github.com/benstreich/etude"><img src="assets/etude-icon.png" width="128" alt="Etude app icon" /></a>
-<br/><br/>
+<td width="220" align="center" valign="middle">
+<a href="https://github.com/benstreich/etude"><img src="assets/etude-icon.png" width="100%" alt="Etude app icon" /></a>
 <a href="https://github.com/benstreich/etude"><img src="https://img.shields.io/badge/View%20on%20GitHub-a31621?style=for-the-badge&logo=github&logoColor=f4ede4" alt="View Etude on GitHub" /></a>
-<br/><br/>
 </td>
 <td valign="middle">
 
