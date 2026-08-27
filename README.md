@@ -1,12 +1,14 @@
-# Hi, I'm Ben 👋
+# Ben Streich
 
-Full-stack developer at [sydoc](https://sydoc.ch) — I build and maintain business web apps end to end, from Postgres/SQL Server schemas up through Flask backends to the UI.
+Full-stack developer at [sydoc](https://sydoc.ch), building business web apps end to end — from Postgres/SQL Server schemas up through Flask backends to the UI.
 
-- 🛠️ **Stack:** Python (Flask, SQLAlchemy), SQL (PostgreSQL, SQL Server), JavaScript/TypeScript, C#
-- 🤖 Big on AI-assisted development — I lean heavily on Claude Code for day-to-day engineering
-- 📝 I write film reviews on [Letterboxd](https://letterboxd.com/benfilmstudio/)
-- 📷 [Instagram](https://instagram.com/ben.xdlol)
-- 📫 **Reach me:** benjamin.streich@sydoc.ch
+**Stack** — Python (Flask, SQLAlchemy) · SQL (PostgreSQL, SQL Server) · JavaScript/TypeScript · C#
+
+Heavily AI-assisted workflow, built around Claude Code.
+
+---
+
+[benjamin.streich@sydoc.ch](mailto:benjamin.streich@sydoc.ch) · [Letterboxd](https://letterboxd.com/benfilmstudio/) · [Instagram](https://instagram.com/ben.xdlol)
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
