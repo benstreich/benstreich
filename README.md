@@ -21,13 +21,13 @@ AI-assisted workflow, built around Claude Code.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0a0a0a,100:5c0b12&text=Side%20project&fontColor=f4ede4&fontSize=16&fontAlignY=55&fontAlign=8" alt="Side project" />
 
-<h2><a href="https://github.com/benstreich/etude"><img src="https://raw.githubusercontent.com/benstreich/benstreich/main/assets/etude-icon.png" width="40" alt="Etude app icon" /></a>&nbsp; Etude &nbsp;<a href="https://github.com/benstreich/etude"><img src="https://img.shields.io/badge/View%20on%20GitHub-a31621?style=flat-square&logo=github&logoColor=f4ede4" alt="View Etude on GitHub" /></a></h2>
+<h3 align="center"><a href="https://github.com/benstreich/etude"><img src="https://raw.githubusercontent.com/benstreich/benstreich/main/assets/etude-icon.png" width="40" alt="Etude app icon" /></a>&nbsp; Etude &nbsp;<a href="https://github.com/benstreich/etude"><img src="https://img.shields.io/badge/View%20on%20GitHub-a31621?style=flat-square&logo=github&logoColor=f4ede4" alt="View Etude on GitHub" /></a></h3>
 
-<sub>A music-practice companion for iOS &amp; Android</sub>&nbsp;&nbsp; <img src="https://img.shields.io/badge/Expo_57-0a0a0a?style=flat-square&logo=expo&logoColor=f4ede4" alt="Expo 57" /> <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=f4ede4" alt="React Native" /> <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=f4ede4" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQLite-0a0a0a?style=flat-square&logo=sqlite&logoColor=f4ede4" alt="SQLite" />
+<p align="center"><sub>A music-practice companion for iOS &amp; Android</sub></p>
 
-Track what you practice, for how long, and how it adds up — with every minute attributed to the piece or technique you actually worked on.
+<p align="center">Track what you practice, for how long, and how it adds up — with every minute attributed to the piece or technique you actually worked on.</p>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top"><b>Practice timer</b><br/><sub>Pause, end &amp; save, or discard. Quick-log presets for untimed sessions.</sub></td>
 <td width="50%" valign="top"><b>Repertoire</b><br/><sub>Pieces and techniques as first-class entities; time rolls up to each.</sub></td>
@@ -41,6 +41,8 @@ Track what you practice, for how long, and how it adds up — with every minute 
 <td valign="top"><b>Private by design</b><br/><sub>All data on device in SQLite. No account, no server. Widgets, dark/light, localised.</sub></td>
 </tr>
 </table>
+
+<p align="center"><img src="https://img.shields.io/badge/Expo_57-0a0a0a?style=flat-square&logo=expo&logoColor=f4ede4" alt="Expo 57" /> <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=f4ede4" alt="React Native" /> <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=f4ede4" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQLite-0a0a0a?style=flat-square&logo=sqlite&logoColor=f4ede4" alt="SQLite" /></p>
 
 ---
 
