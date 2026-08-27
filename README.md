@@ -21,10 +21,6 @@ AI-assisted workflow, built around Claude Code.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0a0a0a,100:5c0b12&text=Side%20project&fontColor=f4ede4&fontSize=16&fontAlignY=55&fontAlign=8" alt="Side project" />
 
-<table width="100%">
-<tr>
-<td valign="middle">
-
 <table>
 <tr>
 <td valign="middle"><a href="https://github.com/benstreich/etude"><img src="https://raw.githubusercontent.com/benstreich/benstreich/main/assets/etude-icon.png" width="72" alt="Etude app icon" /></a></td>
@@ -56,10 +52,6 @@ Track what you practice, for how long, and how it adds up — with every minute 
 <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=f4ede4" alt="React Native" />
 <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=f4ede4" alt="TypeScript" />
 <img src="https://img.shields.io/badge/SQLite-0a0a0a?style=flat-square&logo=sqlite&logoColor=f4ede4" alt="SQLite" />
-
-</td>
-</tr>
-</table>
 
 ---
 
