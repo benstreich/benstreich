@@ -6,6 +6,8 @@ Full-stack developer at [sydoc](https://sydoc.ch), building business web apps en
 
 AI-assisted workflow, built around Claude Code.
 
+**Side project** — [Etude](https://github.com/benstreich/etude): a music-practice companion for iOS/Android (Expo · React Native · TypeScript). Practice timer, per-piece time tracking, progress stats, metronome, session recordings.
+
 ---
 
 [benjamin.streich@sydoc.ch](mailto:benjamin.streich@sydoc.ch) · [Letterboxd](https://letterboxd.com/benfilmstudio/) · [Instagram](https://instagram.com/ben.xdlol)
