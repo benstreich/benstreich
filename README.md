@@ -25,10 +25,15 @@ AI-assisted workflow, built around Claude Code.
 <tr>
 <td valign="middle">
 
-<a href="https://github.com/benstreich/etude"><img align="left" src="https://raw.githubusercontent.com/benstreich/benstreich/main/assets/etude-icon.png" width="72" alt="Etude app icon" /></a>
-<h2>&nbsp;Etude &nbsp;<a href="https://github.com/benstreich/etude"><img src="https://img.shields.io/badge/View%20on%20GitHub-a31621?style=flat-square&logo=github&logoColor=f4ede4" alt="View Etude on GitHub" /></a><br/>&nbsp;<sub><sup>A music-practice companion for iOS &amp; Android</sup></sub></h2>
-
-<br clear="all"/>
+<table>
+<tr>
+<td valign="middle"><a href="https://github.com/benstreich/etude"><img src="https://raw.githubusercontent.com/benstreich/benstreich/main/assets/etude-icon.png" width="72" alt="Etude app icon" /></a></td>
+<td valign="middle">
+<h2>Etude &nbsp;<a href="https://github.com/benstreich/etude"><img src="https://img.shields.io/badge/View%20on%20GitHub-a31621?style=flat-square&logo=github&logoColor=f4ede4" alt="View Etude on GitHub" /></a></h2>
+<sub>A music-practice companion for iOS &amp; Android</sub>
+</td>
+</tr>
+</table>
 
 Track what you practice, for how long, and how it adds up — with every minute attributed to the piece or technique you actually worked on.
 
