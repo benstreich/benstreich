@@ -14,7 +14,12 @@ AI-assisted workflow, built around Claude Code.
 
 ---
 
-[benjamin.streich@sydoc.ch](mailto:benjamin.streich@sydoc.ch) · [Letterboxd](https://letterboxd.com/benfilmstudio/) · [Instagram](https://instagram.com/ben.xdlol) &nbsp; <img align="right" src="https://komarev.com/ghpvc/?username=benstreich&color=7aa2f7&style=flat-square&label=views" alt="profile views" />
+<p align="center">
+<a href="mailto:benjamin.streich@sydoc.ch"><img src="https://img.shields.io/badge/benjamin.streich%40sydoc.ch-1a1b27?style=for-the-badge&logo=minutemailer&logoColor=7aa2f7" alt="email" /></a>
+<a href="https://letterboxd.com/benfilmstudio/"><img src="https://img.shields.io/badge/Letterboxd-1a1b27?style=for-the-badge&logo=letterboxd&logoColor=00E054" alt="Letterboxd" /></a>
+<a href="https://instagram.com/ben.xdlol"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<img src="https://komarev.com/ghpvc/?username=benstreich&color=1a1b27&style=for-the-badge&label=views" alt="profile views" />
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/benstreich/benstreich/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="contribution snake" />
