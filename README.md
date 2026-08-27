@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b27,50:7aa2f7,100:bb9af7&text=Ben%20Streich&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20TypeScript&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0a0a,50:a31621,100:5c0b12&text=Ben%20Streich&fontColor=f4ede4&fontSize=56&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20TypeScript&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Flask+%C2%B7+SQLAlchemy+%C2%B7+PostgreSQL+%C2%B7+SQL+Server;Business+web+apps%2C+end+to+end;AI-assisted+workflow%2C+built+around+Claude+Code;Building+Etude+%E2%80%94+a+music-practice+app" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A31621&center=true&vCenter=true&width=600&lines=Flask+%C2%B7+SQLAlchemy+%C2%B7+PostgreSQL+%C2%B7+SQL+Server;Business+web+apps%2C+end+to+end;AI-assisted+workflow%2C+built+around+Claude+Code;Building+Etude+%E2%80%94+a+music-practice+app" alt="typing" />
 </p>
 
 Full-stack developer at **sydoc**, building business web apps end to end — from Postgres/SQL Server schemas up through Flask backends to the UI.
@@ -11,11 +11,10 @@ Full-stack developer at **sydoc**, building business web apps end to end — fro
 AI-assisted workflow, built around Claude Code.
 
 <p align="center">
-<a href="mailto:benjamin.streich@sydoc.ch"><img src="https://img.shields.io/badge/benjamin.streich%40sydoc.ch-1a1b27?style=for-the-badge&logo=minutemailer&logoColor=7aa2f7" alt="email" /></a>
-<a href="https://letterboxd.com/benfilmstudio/"><img src="https://img.shields.io/badge/Letterboxd-1a1b27?style=for-the-badge&logo=letterboxd&logoColor=00E054" alt="Letterboxd" /></a>
-<a href="https://instagram.com/ben.xdlol"><img src="https://img.shields.io/badge/ben.xdlol-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram ben.xdlol" /></a>
-<a href="https://www.instagram.com/ben19373717162/"><img src="https://img.shields.io/badge/ben19373717162-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram ben19373717162" /></a>
-<img src="https://komarev.com/ghpvc/?username=benstreich&color=1a1b27&style=for-the-badge&label=views" alt="profile views" />
+<a href="mailto:benjamin.streich@sydoc.ch"><img src="https://img.shields.io/badge/benjamin.streich%40sydoc.ch-0a0a0a?style=for-the-badge&logo=minutemailer&logoColor=a31621" alt="email" /></a>
+<a href="https://letterboxd.com/benfilmstudio/"><img src="https://img.shields.io/badge/Letterboxd-0a0a0a?style=for-the-badge&logo=letterboxd&logoColor=00E054" alt="Letterboxd" /></a>
+<a href="https://www.instagram.com/ben19373717162/"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<img src="https://komarev.com/ghpvc/?username=benstreich&color=0a0a0a&style=for-the-badge&label=views" alt="profile views" />
 </p>
 
 ---
@@ -27,7 +26,7 @@ AI-assisted workflow, built around Claude Code.
 </td>
 <td valign="top">
 
-### Etude &nbsp;<a href="https://github.com/benstreich/etude"><img src="https://img.shields.io/badge/repo-1a1b27?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
+### Etude &nbsp;<a href="https://github.com/benstreich/etude"><img src="https://img.shields.io/badge/repo-0a0a0a?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
 
 **A music-practice companion for iOS and Android.** Track what you practice, for how long, and how it adds up.
 
@@ -38,7 +37,7 @@ AI-assisted workflow, built around Claude Code.
 - **Metronome**, practice **recordings** you can listen back to, and home-screen **widgets**
 - Localised, dark/light, all data local on device — no account, no server
 
-<img src="https://img.shields.io/badge/Expo_57-1a1b27?style=flat-square&logo=expo&logoColor=white" alt="Expo" /> <img src="https://img.shields.io/badge/React_Native-1a1b27?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQLite-1a1b27?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Expo_57-0a0a0a?style=flat-square&logo=expo&logoColor=white" alt="Expo" /> <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQLite-0a0a0a?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 
 </td>
 </tr>
@@ -62,4 +61,4 @@ AI-assisted workflow, built around Claude Code.
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:bb9af7,50:7aa2f7,100:1a1b27&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5c0b12,50:a31621,100:0a0a0a&section=footer&fontColor=f4ede4" alt="footer" />
