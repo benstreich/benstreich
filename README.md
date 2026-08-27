@@ -19,25 +19,42 @@ AI-assisted workflow, built around Claude Code.
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0a0a0a,100:5c0b12&text=Side%20project&fontColor=f4ede4&fontSize=16&fontAlignY=55&fontAlign=8" alt="Side project" />
+
+<table width="100%">
+<tr>
+<td width="180" align="center" valign="middle">
+<br/>
+<a href="https://github.com/benstreich/etude"><img src="assets/etude-icon.png" width="128" alt="Etude app icon" /></a>
+<br/><br/>
+<a href="https://github.com/benstreich/etude"><img src="https://img.shields.io/badge/View%20on%20GitHub-a31621?style=for-the-badge&logo=github&logoColor=f4ede4" alt="View Etude on GitHub" /></a>
+<br/><br/>
+</td>
+<td valign="middle">
+
+<h2>Etude<br/><sub><sup>A music-practice companion for iOS &amp; Android</sup></sub></h2>
+
+Track what you practice, for how long, and how it adds up — with every minute attributed to the piece or technique you actually worked on.
+
 <table>
 <tr>
-<td width="140" align="center" valign="top">
-<a href="https://github.com/benstreich/etude"><img src="assets/etude-icon.png" width="110" style="border-radius:24px" alt="Etude icon" /></a>
-</td>
-<td valign="top">
+<td width="50%" valign="top"><b>Practice timer</b><br/><sub>Pause, end &amp; save, or discard. Quick-log presets for untimed sessions.</sub></td>
+<td width="50%" valign="top"><b>Repertoire</b><br/><sub>Pieces and techniques as first-class entities; time rolls up to each.</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>Progress</b><br/><sub>Weekly &amp; all-time stats, time-by-focus, tappable day-by-day history.</sub></td>
+<td valign="top"><b>Backfill</b><br/><sub>Log past practice from a month calendar, split across pieces.</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>Metronome &amp; recordings</b><br/><sub>Built-in metronome; record sessions and listen back.</sub></td>
+<td valign="top"><b>Private by design</b><br/><sub>All data on device in SQLite. No account, no server. Widgets, dark/light, localised.</sub></td>
+</tr>
+</table>
 
-### Etude &nbsp;<a href="https://github.com/benstreich/etude"><img src="https://img.shields.io/badge/repo-0a0a0a?style=flat-square&logo=github&logoColor=white" alt="repo" /></a>
-
-**A music-practice companion for iOS and Android.** Track what you practice, for how long, and how it adds up.
-
-- **Practice timer** with pause / end-and-save / discard, plus quick-log presets
-- **Repertoire** of pieces and techniques — every minute attributed to what you actually worked on
-- **Progress** — weekly and all-time stats, time-by-focus breakdown, tappable day-by-day history
-- **Log past practice** via a full month calendar, splitting minutes across pieces
-- **Metronome**, practice **recordings** you can listen back to, and home-screen **widgets**
-- Localised, dark/light, all data local on device — no account, no server
-
-<img src="https://img.shields.io/badge/Expo_57-0a0a0a?style=flat-square&logo=expo&logoColor=white" alt="Expo" /> <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQLite-0a0a0a?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Expo_57-0a0a0a?style=flat-square&logo=expo&logoColor=f4ede4" alt="Expo 57" />
+<img src="https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=f4ede4" alt="React Native" />
+<img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=f4ede4" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SQLite-0a0a0a?style=flat-square&logo=sqlite&logoColor=f4ede4" alt="SQLite" />
 
 </td>
 </tr>
