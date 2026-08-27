@@ -17,7 +17,8 @@ AI-assisted workflow, built around Claude Code.
 <p align="center">
 <a href="mailto:benjamin.streich@sydoc.ch"><img src="https://img.shields.io/badge/benjamin.streich%40sydoc.ch-1a1b27?style=for-the-badge&logo=minutemailer&logoColor=7aa2f7" alt="email" /></a>
 <a href="https://letterboxd.com/benfilmstudio/"><img src="https://img.shields.io/badge/Letterboxd-1a1b27?style=for-the-badge&logo=letterboxd&logoColor=00E054" alt="Letterboxd" /></a>
-<a href="https://instagram.com/ben.xdlol"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<a href="https://instagram.com/ben.xdlol"><img src="https://img.shields.io/badge/ben.xdlol-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram ben.xdlol" /></a>
+<a href="https://www.instagram.com/ben19373717162/"><img src="https://img.shields.io/badge/ben19373717162-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram ben19373717162" /></a>
 <img src="https://komarev.com/ghpvc/?username=benstreich&color=1a1b27&style=for-the-badge&label=views" alt="profile views" />
 </p>
 
