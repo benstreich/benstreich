@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0a0a,50:a31621,100:5c0b12&text=Ben%20Streich&fontColor=f4ede4&fontSize=56&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20TypeScript&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A31621&center=true&vCenter=true&width=600&lines=Flask+%C2%B7+SQLAlchemy+%C2%B7+PostgreSQL+%C2%B7+SQL+Server;Business+web+apps%2C+end+to+end;AI-assisted+workflow%2C+built+around+Claude+Code;Building+Etude+%E2%80%94+a+music-practice+app" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A31621&center=true&vCenter=true&width=600&lines=Flask+%C2%B7+SQLAlchemy+%C2%B7+PostgreSQL+%C2%B7+SQL+Server;Business+web+apps%2C+end+to+end;Building+Etude+%E2%80%94+a+music-practice+app" alt="typing" />
 </p>
 
 Full-stack developer at **sydoc**, building business web apps end to end — from Postgres/SQL Server schemas up through Flask backends to the UI.
