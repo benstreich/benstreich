@@ -4,11 +4,25 @@ Full-stack developer at [sydoc](https://sydoc.ch), building business web apps en
 
 **Stack** — Python (Flask, SQLAlchemy) · SQL (PostgreSQL, SQL Server) · JavaScript/TypeScript · C#
 
-Heavily AI-assisted workflow, built around Claude Code.
+AI-assisted workflow, built around Claude Code.
 
 ---
 
 [benjamin.streich@sydoc.ch](mailto:benjamin.streich@sydoc.ch) · [Letterboxd](https://letterboxd.com/benfilmstudio/) · [Instagram](https://instagram.com/ben.xdlol)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/benstreich/benstreich/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/benstreich/benstreich/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="contribution snake" />
+</p>
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=benstreich&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=benstreich&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benstreich&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
