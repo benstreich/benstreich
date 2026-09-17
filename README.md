@@ -19,7 +19,6 @@ AI-assisted workflow, built around Claude Code.
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=44&color=0:0a0a0a,100:5c0b12&text=Side%20project&fontColor=f4ede4&fontSize=16&fontAlignY=55&fontAlign=8" alt="Side project" />
 
 <p align="center">
 <a href="https://github.com/benstreich/etude"><picture>
